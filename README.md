@@ -6,7 +6,7 @@
 📚 Currently learning Flutter, API Integration, and Cybersecurity  
 💻 Passionate about Mobile App Development and building impactful tech products  
 🎯 My goal is to become a full-stack mobile developer  
-📝 Currently developing: Heal My Heart  
+📝 Currently developing: Virtual Shopping Application  
 🌙 I believe in blending science + soul through tech  
 🎶 I enjoy writing, and learning new frameworks  
 
