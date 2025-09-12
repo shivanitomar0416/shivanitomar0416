@@ -15,18 +15,18 @@
 ## 💻 Skills & Technologies
 
 - **Frontend:** HTML, CSS, JavaScript(basic), Flutter  
-- **Backend:** Firebase, Node.js (learning)  
+- **Backend:** Firebase 
 - **Databases:** Firebase, MySQL  
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code  
 --------------------------------------------------------------------------------------
 
 ## 📌 Projects
 
-- ☁️ **Weather Detection App** – Built with Flutter and OpenWeatherMap API  
-- 📝 **To-Do List App** – A clean and simple task management app using Flutter  
-- ⚖️ **BMI Calculator** – Calculates Body Mass Index with a user-friendly interface  
-- 🛒 **E-Commerce Website** – A shopping website with product listing and user authentication  
-- ❓ **Quiz Bowl Web Application** – A fun, interactive quiz app with scoring and MCQs  
+- ☁️ **Weather Detection App** – Built with Flutter and OpenWeatherMap API    
+- 🛒 **OutFitX** – A shopping website with product listing and user authentication  
+- ❓ **Quiz Bowl Web Application** – A fun, interactive quiz app with scoring and MCQs
+- - 📝 **To-Do List App** – A clean and simple task management app using Flutter  
+- ⚖️ **BMI Calculator** – Calculates Body Mass Index with a user-friendly interface
 --------------------------------------------------------------------------------------
 
 ## 🎯 Goals for 2025
@@ -34,7 +34,7 @@
 - 🚀 Get an internship in Flutter development  
 - 🧠 Learn backend development (Node.js + MongoDB)  
 - 🌟 Launch my own mobile app on the Play Store  
-- 💖 Build and release my emotional wellness app: **Heal My Heart**  
+- 💖 Build an app that help People 
 - 📚 Strengthen core CS fundamentals (DSA, OOPs, DBMS)
 --------------------------------------------------------------------------------------
 
