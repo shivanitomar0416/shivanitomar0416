@@ -3,18 +3,17 @@
 ## ✨ About Me
 
 🎓 Final Year BCA Student from Dehradun  
-📚 Currently learning Flutter, API Integration, and Cybersecurity  
+📚 Currently learning full stack 
 💻 Passionate about Mobile App Development and building impactful tech products  
-🎯 My goal is to become a full-stack mobile developer  
-📝 Currently developing: Virtual Shopping Application  
-🌙 I believe in blending science + soul through tech  
+🎯 My goal is to work hard, keep learning new technologies and become a successful and confident developer  
+📝 Currently developing: My Skills  
 🎶 I enjoy writing, and learning new frameworks  
 
 --------------------------------------------------------------------------------------
 
 ## 💻 Skills & Technologies
 
-- **Frontend:** HTML, CSS, JavaScript(basic), Flutter  
+- **Frontend:** HTML, CSS, JavaScript, Flutter  
 - **Backend:** Firebase 
 - **Databases:** Firebase, MySQL  
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code  
