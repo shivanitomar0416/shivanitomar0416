@@ -19,18 +19,9 @@
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code  
 --------------------------------------------------------------------------------------
 
-## 📌 Projects
 
-- ☁️ **Weather Detection App** – Built with Flutter and OpenWeatherMap API    
-- 🛒 **OutFitX** – A shopping website with product listing and user authentication  
-- ❓ **Quiz Bowl Web Application** – A fun, interactive quiz app with scoring and MCQs
-- - 📝 **To-Do List App** – A clean and simple task management app using Flutter  
-- ⚖️ **BMI Calculator** – Calculates Body Mass Index with a user-friendly interface
---------------------------------------------------------------------------------------
+## 🎯 Goals for 2026
 
-## 🎯 Goals for 2025
-
-- 🚀 Get an internship in Flutter development  
 - 🧠 Learn backend development (Node.js + MongoDB)  
 - 🌟 Launch my own mobile app on the Play Store  
 - 💖 Build an app that help People 
