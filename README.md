@@ -22,7 +22,6 @@
 
 ## 🎯 Goals for 2026
 
-- 🧠 Learn backend development (Node.js + MongoDB)  
 - 🌟 Launch my own mobile app on the Play Store  
 - 💖 Build an app that help People 
 - 📚 Strengthen core CS fundamentals (DSA, OOPs, DBMS)
