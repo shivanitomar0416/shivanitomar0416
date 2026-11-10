@@ -2,7 +2,6 @@
 
 ## ✨ About Me
 
-🎓 Final Year BCA Student from Dehradun  
 📚 Currently learning full stack 
 💻 Passionate about Mobile App Development and building impactful tech products  
 🎯 My goal is to work hard, keep learning new technologies and become a successful and confident developer  
@@ -17,14 +16,6 @@
 - **Backend:** Firebase 
 - **Databases:** Firebase, MySQL  
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code  
---------------------------------------------------------------------------------------
-
-
-## 🎯 Goals for 2026
-
-- 🌟 Launch my own mobile app on the Play Store  
-- 💖 Build an app that help People 
-- 📚 Strengthen core CS fundamentals (DSA, OOPs, DBMS)
 --------------------------------------------------------------------------------------
 
 
